@@ -58,7 +58,6 @@ function myFunction() {
     </div>
   </div>
   
- 
   <!--======= WHAT WE DO =========-->
   <section class="what-we-do">
     <div class="container"> 
