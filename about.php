@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>About Us | Arya Real Estate</title>
+<title>About| Arya Real Estate</title>
 <meta name="keywords" content="" >
 <meta name="description" content="">
 <meta name="author" content="">
@@ -58,7 +58,6 @@ function myFunction() {
     </div>
   </div>
   
- 
   <!--======= WHAT WE DO =========-->
   <section class="what-we-do">
     <div class="container"> 
